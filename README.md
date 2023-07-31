@@ -1,0 +1,2 @@
+This is a mini project that contains data about 9 players and uses python code to create a program that accepts user input and gives the data of that player and similar players for comparison. Similarity was determined by K-means clustering. Various variables about the player's data have been compressed into two - build up and attack signifying their contribution in respective phases of play. The program is only concerned with midfielders as of now because it was originally intended to find a replacement for Ilkay Gundogan for City
+# Nerd-stuff
